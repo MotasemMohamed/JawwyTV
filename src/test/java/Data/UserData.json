@@ -1,0 +1,16 @@
+[
+  {
+    "countrycode": "eg",
+    "countryname": "مصر",
+    "NewEssentialpackprice": "7.00",
+    "OldEssentialpackprice": "ابتداءا من 50.00 جنيه مصري/بالشهر",
+    "lightpackprice": "0.25 دولار أمريكي/شهر",
+    "Essentialpackprice": "0.5 دولار أمريكي/شهر",
+    "Premiumpackprice": "1 دولار أمريكي/شهر",
+    "FightSport": "5.33دولار/شهر",
+    "PhoneName": "رقم الموبيل",
+    "TvJaw": "10 جنية مصري/الشهر",
+    "orange_company":"إبتداءً من: 7.00 جنيه مصري",
+    "Other_Company": "إبتداءً من: 10.00 جنيه مصري"
+  }
+]

@@ -1,0 +1,9 @@
+<suite name="JawTv" >
+    <parameter name="browser" value="chrome" />
+    <test name ="chromeTest" preserve-order="true">
+        <classes>
+            <class name="TestCase.EG_AddBundleTest"/>
+            <class name="TestCase.Other_AddBundleTest"/>
+        </classes>
+    </test>
+    </suite>
